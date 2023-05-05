@@ -18,3 +18,4 @@ public class StartApplicationTest {
         String result = startApplication.index(model);
         assertEquals("index", result);
     }
+}
